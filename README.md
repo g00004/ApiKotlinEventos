@@ -3,9 +3,9 @@
 ## Porcentaje de avance: 45% 
 Integrantes 
 
-Enma Sofia López Rojas			LR230079 
-Kevin Enrique Martínez Martínez	MM230084 
-José Gerardo Marroquín Vásquez	MV230090 
+- Enma Sofia López Rojas			LR230079 
+- Kevin Enrique Martínez Martínez	MM230084 
+- José Gerardo Marroquín Vásquez	MV230090 
  
 
 
